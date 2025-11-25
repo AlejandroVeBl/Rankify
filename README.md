@@ -2,6 +2,5 @@
 
 ## 2-degree ego network analysis created by the artists present in a Spotify playlist using the PageRank algorithm
 
-Based on the work by:
+Based on the work by P. Mohan, P. Narayan and L. Sharma, "Egocentric Analysis of GitHub User Network," 2021.
 
-P. Mohan, P. Narayan and L. Sharma, "Egocentric Analysis of GitHub User Network," 2021 2nd International Conference for Emerging Technology (INCET), Belagavi, India, 2021, pp. 1-7, doi: 10.1109/INCET51464.2021.9456183. keywords: {Productivity;Social networking (online);Entertainment industry;Clustering algorithms;Tools;Approximation algorithms;Security;PageRank algorithm;GitHub API;Egocentric analysis;Ego network;Clustering coefficient;Cluster density;Alters},
